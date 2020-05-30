@@ -34,7 +34,7 @@ export const m = {
   Contest_has_ended: '대회가 종료되었습니다.',
   You_have_submission_in_this_problem_sure_to_cover_it: 'You have submission in this problem, sure to cover it?',
   // About.vue
-  Compiler: '컴파일러,
+  Compiler: '컴파일러',
   Result_Explanation: '결과 설명',
   Pending_Judging_Description: '채점 중입니다. 잠시만 기다려주세요.',
   Compile_Error_Description: "코드를 컴파일하지 못했습니다. 컴파일러의 출력을 확인하려면 링크를 클릭하세요.",
