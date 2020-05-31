@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         <p v-html="website.website_footer"></p>
-        <p>Powered by <a href="https://github.com/QingdaoU/OnlineJudge">OnlineJudge</a>
+        <p>&copy; 2020. <a href="https://github.com/IllIIIllll/OnlineJudgeDeploy">박지성</a> all rights reserved.
           <span v-if="version">&nbsp; Version: {{ version }}</span>
         </p>
       </div>

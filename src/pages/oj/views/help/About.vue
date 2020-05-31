@@ -19,6 +19,7 @@
           <li><b>{{$t('m.Compile_Error')}}</b> :	{{$t('m.Compile_Error_Description')}}
       </li>
           <li><b>{{$t('m.Accepted')}}</b> :	{{$t('m.Accepted_Description')}}</li>
+          <li><b>{{$t('m.Partial_Accepted')}}</b> :	{{$t('m.Partial_Accepted_Description')}}</li>
           <li><b>{{$t('m.Wrong_Answer')}}</b> :	{{$t('m.Wrong_Answer_Description')}}</li>
           <li>
             <b>{{$t('m.Runtime_Error')}}</b>

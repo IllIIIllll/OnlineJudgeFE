@@ -39,6 +39,7 @@ export const m = {
   Pending_Judging_Description: 'You solution will be judged soon, please wait for result.',
   Compile_Error_Description: "Failed to compile your source code. Click on the link to see compiler's output.",
   Accepted_Description: 'Congratulations. Your solution is correct.',
+  Partial_Accepted_Description: 'This is the partial score used in OI. If only some of the test cases are correct, a partial score is given.',
   Wrong_Answer_Description: "Your program's output doesn't match judger's answer.",
   Runtime_Error_Description: 'Your program terminated abnormally. Possible reasons are: segment fault, divided by zero or exited with code other than 0.',
   Time_Limit_Exceeded_Description: 'The CPU time your program used has exceeded limit.',
