@@ -92,7 +92,7 @@ export const m = {
   What_is_the_meaning_of_submission_execution_time_answer: '실행 시간은 코드가 테스트 데이터를 입력받아 정답을 출력하기까지 소요되는 시간을 의미합니다. 채점 서버에서는 제출된 코드를 많게는 수백개의 데이터를 사용해서 채점하는데 이 때, 각 데이터에 대해 소요된 시간 중 최대값을 표시합니다.',
   How_to_report_bugs: '버그가 발견되면 어떻게 하나요?',
   How_to_report_bugs_answer_part_1: '저에게 직접 연락을 주시거나, 칭다오 대학의 ',
-  How_to_report_bugs_answer_part_2: '에 이슈를 등록할 수 있습니다. 버그와 관련된 세부사항(환경이나 버전 등)을 알려주시면 버그를 해결하는 데에 많은 도움이 될 것입니다.'
+  How_to_report_bugs_answer_part_2: '에 이슈를 등록할 수 있습니다. 버그와 관련된 세부사항(환경이나 버전 등)을 알려주시면 버그를 해결하는 데에 많은 도움이 될 것입니다.',
   // Cancel.vue
   Cancel: '취소',
   // ContestDetail.vue
