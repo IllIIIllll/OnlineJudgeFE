@@ -67,7 +67,7 @@ export const m = {
   // ACMRank.vue
   ACM_Ranklist: 'ACM 랭킹',
   mood: '상태메세지',
-  AC: 'AC',
+  AC: '정답',
   Rating: 'Rating',
   // Announcements.vue
   Contest_Announcements: '대회 공지사항',
@@ -224,7 +224,7 @@ export const m = {
   Singal: 'Singal',
   // SubmissionList.vue
   When: '제출일',
-  ID: '코드',
+  ID: '채점 결과',
   Time: '수행 시간',
   Memory: '사용 메모리',
   Author: '제출자',
