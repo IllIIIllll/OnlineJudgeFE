@@ -7,7 +7,7 @@
           <p>{{$t('m.Where_is_the_input_and_the_output_answer_part_1')}} <code>stdin</code> ('{{$t('m.Standard_Input')}}') {{$t('m.Where_is_the_input_and_the_output_answer_part_3')}} <code>stdout</code>
             ('{{$t('m.Standard_Output')}}') {{$t('m.Where_is_the_input_and_the_output_answer_part_5')}} <code>input()</code> {{$t('m.Where_is_the_input_and_the_output_answer_part_6')}} <code>sys</code>
             {{$t('m.Where_is_the_input_and_the_output_answer_part_7')}} <code>sys.stdin</code> {{$t('m.Where_is_the_input_and_the_output_answer_part_8')}} <code>print()</code> {{$t('m.Where_is_the_input_and_the_output_answer_part_9')}} <code>{{$t('m.Runtime_Error')}}</code>
-            {{$t('m.Where_is_the_input_and_the_output_answer_part_10')}}.
+            {{$t('m.Where_is_the_input_and_the_output_answer_part_10')}}
           </p>
         </li>
         <li>{{$t('m.What_is_the_meaning_of_submission_execution_time')}} 
