@@ -37,7 +37,7 @@
     nvm alias default v8.12.0
 
     # FE 복사
-    git clone https://github.com/IllIIIllll/OnlineJudgeFE.git && cd OnlineJudgeFE
+    git clone https://github.com/IllIIIllll/online-judge-frontend.git && cd online-judge-frontend
 
     # 설치
     npm install
